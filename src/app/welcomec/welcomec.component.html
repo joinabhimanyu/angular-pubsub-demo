@@ -1,0 +1,30 @@
+<mat-card class="mainContainer">
+  <div class="contents">
+    <div>
+      <h4> Welcome back to the neuroSHARE questionnaire.</h4>
+    </div>
+    <div>
+      <p>
+        <i>{{data.firstName}}</i>,</p>
+      <p>Please complete the following questions before your next appointment on {{data.appDate}}. All of the information will
+        be sent to me so I can review it before we meet.
+      </p>
+      <ul>
+        <li> Your answers are confidential and will only be shared with Sutter Health.</li>
+        <li>You can stop and save your answers at any time. Return and finish it when you are ready.
+        </li>
+        <li> You can skip questions that you don’t wish to answer. </li>
+      </ul>
+      <p> Please email {{data.email}} if you have any questions about the questionnaire. Thank you in advance for your time.</p>
+      <p>
+        <i>{{data.clinicianName}}</i>
+      </p>
+    </div>
+  </div>
+  <div class="btnContainer">
+    <button mat-raised-button class="btn-right" color="primary" (click)="next()">
+      <b>Next</b>
+      <i class="fa fa-arrow-right right" aria-hidden="true"></i>
+    </button>
+  </div>
+</mat-card>

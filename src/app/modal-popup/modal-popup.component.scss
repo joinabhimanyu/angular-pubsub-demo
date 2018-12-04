@@ -1,0 +1,25 @@
+.popupContainer {
+  font-size: 18px;
+  margin: 0px auto;
+
+  .mat-dialog-content {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .btnContainer {
+    margin-top: 10px;
+    text-align: center;
+
+    .btn-right .mat-button {
+      margin-left: 5px;
+      background-color: aliceblue;
+    }
+  }
+}
+
+.mat-button {
+  margin-left: 5px;
+  background-color: #7b1fa2;
+  color: white;
+  font-size: 14pt;
+}

@@ -1,0 +1,41 @@
+<mat-card class="mainContainer">
+  <div align="center">
+    <h3> Welcome to the neuroSHARE Questionnaire</h3>
+  </div>
+  <mat-card-content>
+    <div>
+      <p>Hello {{data.firstName}},</p>
+      <p>My office is excited to start using the neuroSHARE questionnaire. It will help me gather information about your
+        health and how you are doing. Please take some time to complete the questionnaire anytime before your next appointment
+        on {{data.appDate}}. </p>
+      <p><b>How it works</b></p>
+      <ul>
+        <li> You can complete the questionnaire securely online. Your answers are confidential and will only be shared with
+          Sutter Health. </li>
+        <li>You can move at your own pace, and you can stop and save your answers at any time. Return and finish it when
+          you are ready.
+        </li>
+        <li> You can skip questions that you don’t wish to answer. The more questions you answer, the more likely I’ll be
+          able to calculate your expanded disability status scale (EDSS) score. </li>
+        <li> At the end you can make a list of what you’d like to talk about at your next appointment.</li>
+      </ul>
+      <p><b>How it will help</b></p>
+      <ul>
+        <li>All of the information will be sent to me so I can review it before your next appointment. </li>
+        <li> It will allow us to display your list and your information during your appointment so we can talk about it and
+          use it to make decisions. </li>
+        <li> It will make it easier for us to track changes over time. </li>
+      </ul>
+      <p>
+        Please email {{data.email}} if you have any questions about the questionnaire. Thank you in advance for your time.
+      </p>
+      <p>{{data.clinicianName}}</p>
+    </div>
+  </mat-card-content>
+  <div class="btnContainer">
+    <button mat-raised-button class="btn-right" color="primary" (click)="next()">
+      <b>Next</b>
+      <i class="fa fa-arrow-right" style="padding:  0px 0px 0px 5px" aria-hidden="true"></i>
+    </button>
+  </div>
+</mat-card>

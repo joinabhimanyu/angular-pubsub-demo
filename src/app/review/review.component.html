@@ -1,0 +1,52 @@
+<section class="progressbar">
+  <div class="barCont">
+    <div class="blueBar " style="width:100%"></div>
+  </div>
+  <div class="progressTxt">100% completed</div>
+</section>
+<mat-card class="mainContainer">
+  <div class="contents">
+    <p><b>{{data.firstName}}, here is a summary of information based on your answers.</b></p>
+    <ul>
+      <li class="revieContentPadding" *ngIf="displaySection && edssAndSymptoms && edssAndSymptoms.symptoms">Current
+        symptoms with status:
+        <ul>
+          <li *ngFor="let symptom of edssAndSymptoms.symptoms">
+            {{symptom}}
+          </li>
+        </ul>
+      </li>
+      <li class="revieContentPadding" *ngIf="relapses">
+        Relapses since your last visit: {{relapses}}
+      </li>
+      <li class="revieContentPadding" *ngIf="presentResponses && presentResponses.length>0">
+        Topics you want to discuss with your doctor:
+        <ul>
+          <li *ngFor="let response of presentResponses">
+            <label *ngIf='response'> {{response}} </label>
+          </li>
+        </ul>
+      </li>
+      <li class="revieContentPadding" *ngIf="!presentResponses || presentResponses.length==0">
+        Topics you want to discuss with your doctor:
+        <label>You did not list any topics to discuss at your upcoming visit</label>
+      </li>
+    </ul>
+    <p>
+      <strong>Click submit questionnaire to send these responses to your doctor.</strong>
+    </p>
+    <div style="display: none"> We do not have enough information to calculate scores for you to review. You may click
+      “Back”
+      to fill in additional information, or click “Submit Questionnaire” to share what you’ve entered with your doctor.
+    </div>
+  </div>
+  <div class="btnContainer">
+    <button mat-raised-button class="btn-left" color="primary" (click)="previous()">
+      <i class="fa fa-arrow-left left" aria-hidden="true"></i>
+      <b>Back</b>
+    </button>
+    <button mat-raised-button class="btn-right" color="primary" [disabled]="isSubmitDisabled" (click)="openDialog()">
+      <b>Submit Questionnaire</b>
+    </button>
+  </div>
+</mat-card>

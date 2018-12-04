@@ -1,0 +1,32 @@
+.mainContainer {
+    font-size: 14pt;    
+    width: 90%;
+    margin: 0px auto;
+    min-height: 420px;
+    .contents
+    {
+        min-height:400px;
+        margin-bottom: 10px;
+    }   
+    .btnContainer
+    {
+        margin-top: 40px;
+        text-align: center;
+        .btn-right
+        {
+            margin-left: 5px;
+        }
+    }
+}
+.mat-card-content
+{
+    font-size: 14pt !important;
+}
+
+.left
+{
+    padding:  0px 5px 0px 0px
+}
+.right{
+    padding:  0px 0px 0px 5px
+}

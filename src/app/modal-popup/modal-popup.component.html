@@ -1,0 +1,14 @@
+<div class="popupContainer">
+  
+  <div mat-dialog-content>
+    {{data.pageContent}}
+  </div>
+  <div class="btnContainer">
+    <button mat-button class="btn-left" color="primary" (click)="onClick('0')">
+      <b>{{data.button1}}</b>
+    </button>
+    <button mat-button class="btn-right" color="primary" (click)="onClick('1')">
+      <b>{{data.button2}}</b>
+    </button>
+  </div>
+</div>

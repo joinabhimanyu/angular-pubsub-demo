@@ -1,0 +1,272 @@
+<section class="progressbar">
+  <div class="barCont">
+    <div class="blueBar " [attr.style]='styleProgress'></div>
+  </div>
+  <div class="progressTxt">{{progress}}% completed</div>
+</section>
+
+<mat-card class="mainContainer">
+  <div class="contents">
+    <div style="min-height:10px;">
+      <span *ngIf='pageObject.descr1'>
+        <b>{{pageObject.descr1}}</b>
+      </span>
+      <ul *ngIf='pageObject.intro'>
+        <li *ngFor="let intros of pageObject.intro" class="revieContentPadding">
+          {{intros}}
+        </li>
+      </ul>
+      <p *ngIf='pageObject.descr2'>
+        <b>{{pageObject.descr2}}</b>
+      </p>
+    </div>
+    <p [ngClass]="(pageObject.name==('Q17'))?'left-margin':''" style="font-weight: 800">
+      <b>{{pageObject.text}}</b>
+    </p>
+    <div>
+      <div *ngIf="pageObject.type.toLowerCase()=='radio'">
+        <mat-radio-group [(ngModel)]="pageObject.answer">
+          <mat-radio-button *ngFor="let option of pageObject.options" [value]="option">
+            {{option.text}}
+          </mat-radio-button>
+        </mat-radio-group>
+
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='table' " class="subtable ">
+        <table>
+          <tr>
+            <th class="emptysec "></th>
+            <th *ngFor="let option of pageObject.commonOptions || pageObject.sub[0].options ">{{option.text}}</th>
+          </tr>
+          <tbody>
+            <tr *ngFor="let item of pageObject.sub ; let g=index ">
+              <td>{{item.text}}</td>
+              <td *ngFor="let option of item.options ; let i=index ">
+                <mat-radio-button [name]="g" (change)="change($event)" [value]="option" [checked]="option.checked "></mat-radio-button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='sub2' " class="subtable ">
+        <table>
+          <tr>
+            <th class="emptysec "></th>
+            <th *ngFor="let option of pageObject.commonOptions || pageObject.sub[0].options ">{{option.text}}</th>
+          </tr>
+          <tbody>
+            <tr *ngFor="let item of pageObject.sub ; let g=index ">
+              <td>{{item.text}}</td>
+              <td *ngFor="let option of item.options ; let i=index ">
+                <mat-radio-button [name]="g" (change)="change($event)" [value]="option" [checked]="option.checked "></mat-radio-button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="sub2">
+          <p>
+            <strong>{{pageObject.sub2[0].text}}</strong>
+          </p>
+          <mat-radio-group [(ngModel)]="pageObject.sub2[0].answer">
+            <mat-radio-button *ngFor="let option of pageObject.sub2[0].options" [value]="option">
+              {{option.text}}
+            </mat-radio-button>
+          </mat-radio-group>
+        </div>
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='header' " class="subtable ">
+        <table>
+          <tr>
+            <td rowspan="2 "></td>
+            <td class="header-desc" rowspan="2 ">{{pageObject.commonOptions[0].text}}</td>
+          </tr>
+          <tr>
+            <th *ngFor="let option of pageObject.commonOptions.slice(1,5) || pageObject.sub[0].options ">{{option.text}}</th>
+          </tr>
+          <tbody>
+            <tr *ngFor="let item of pageObject.sub ; let g=index ">
+              <td>{{item.text}}</td>
+              <td *ngFor="let option of item.options ; let i=index ">
+                <mat-radio-button [name]="g " (change)="change($event) " [value]="option" [checked]="option.checked "></mat-radio-button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='division'">
+        <div [ngClass]="((item.name=='Q17.1')||(item.name=='Q17.2'))?'left-margin-big':'left-margin'" *ngFor="let item of pageObject.sub; let g=index ">
+          <p class="devResponseMargin">
+            <b> {{item.text}}</b>
+          </p>
+          <mat-radio-group [(ngModel)]="pageObject.sub[g].answer">
+            <mat-radio-button *ngFor="let option of pageObject.sub[g].options" [value]="option">
+              {{option.text}}
+            </mat-radio-button>
+          </mat-radio-group>
+        </div>
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='scale'" class="scale">
+        <div *ngIf="pageObject.name=='Q26'">
+          <table class="smiley-group">
+            <tr>
+              <td> <img class="smiley" src="assets/smiley/smileys1.svg" /></td>
+              <td></td>
+              <td><img class="smiley" src="assets/smiley/smileys2.svg" /></td>
+              <td></td>
+              <td><img class="smiley" src="assets/smiley/smileys3.svg" /></td>
+              <td></td>
+              <td><img class="smiley" src="assets/smiley/smileys4.svg" /></td>
+              <td></td>
+              <td><img class="smiley" src="assets/smiley/smileys5.svg" /></td>
+              <td></td>
+              <td><img class="smiley" src="assets/smiley/smileys6.svg" /></td>
+            </tr>
+          </table>
+        </div>
+        <div style="float:left; width:140px;">
+          {{pageObject.leftRangeLabel}}
+        </div>
+        <div style="float:left;width:580px;">
+          <mat-radio-group [(ngModel)]="pageObject.answer">
+            <table>
+              <tr>
+                <td *ngFor="let option of pageObject.options; let i = index" style="text-align: center;padding-left:6px;">
+                  {{option.text}}
+                </td>
+              </tr>
+              <tr>
+                <td [attr.data-th]="option" *ngFor="let option of pageObject.options; let i = index">
+                  <mat-radio-button [value]="option">
+                  </mat-radio-button>
+                </td>
+              </tr>
+            </table>
+          </mat-radio-group>
+        </div>
+        <div style="float:left; width:140px;">
+          {{pageObject.rightRangeLabel}}
+        </div>
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='selectoptions'">
+        <div *ngFor="let item of pageObject.sub; let g=index">
+          <p>
+            <b> {{item.text}}</b>
+          </p>
+          <mat-select [id]='g' ariaLabel='Years' placeholder="Select" panelClass="example-panel-blue" [(ngModel)]="item.value"
+            (change)="change($event) ">
+            <mat-option *ngFor="let option of pageObject.selectOptions" [value]="option">
+              {{ option }}
+            </mat-option>
+          </mat-select>
+        </div>
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='gender'">
+        <mat-radio-group [(ngModel)]="pageObject.answer">
+          <mat-radio-button *ngFor="let option of pageObject.options" [value]="option">
+            {{option.text}}
+          </mat-radio-button>
+        </mat-radio-group>
+        <div *ngIf="pageObject.gender.toLowerCase()=='male'" class="subtable">
+          <p>
+            <strong>{{pageObject.male.text}}</strong>
+          </p>
+          <table>
+            <tr>
+              <th class="emptysec "></th>
+              <th *ngFor="let option of pageObject.male.sub[0].options ">{{option.text}}</th>
+            </tr>
+            <tbody>
+              <tr *ngFor="let item of pageObject.male.sub ; let g=index ">
+                <td>{{item.text}}</td>
+                <td *ngFor="let option of item.options ; let i=index ">
+                  <mat-radio-button [name]="g" (change)="change($event)" [value]="option" [checked]="option.checked "></mat-radio-button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div *ngIf="pageObject.gender.toLowerCase()=='female'" class="subtable">
+          <p>
+            <strong>{{pageObject.female.text}}</strong>
+          </p>
+          <table>
+            <tr>
+              <th class="emptysec"></th>
+              <th *ngFor="let option of pageObject.female.sub[0].options ">{{option.text}}</th>
+            </tr>
+            <tbody>
+              <tr *ngFor="let item of pageObject.female.sub ; let g=index ">
+                <td>{{item.text}}</td>
+                <td *ngFor="let option of item.options ; let i=index ">
+                  <mat-radio-button [name]="g" (change)="change($event)" [value]="option" [checked]="option.checked "></mat-radio-button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+        </div>
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='relapses'">
+        <div>
+          <p>
+            <strong>{{pageObject.sub3[0].text}}</strong>
+          </p>
+          <mat-radio-group [(ngModel)]="pageObject.sub3[0].answer">
+            <mat-radio-button *ngFor="let option of pageObject.sub3[0].options" [value]="option">
+              {{option.text}}
+            </mat-radio-button>
+          </mat-radio-group>
+        </div>
+        <div *ngIf="pageObject.sub3[0].answer && (pageObject.sub3[0].answer.score==1)" class="footer-padding">
+          Number of relapses:
+          <mat-select class="relapse-select" placeholder="(0-6)" [(ngModel)]="pageObject.sub2.answer" (selectionChange)="change($event)">
+            <mat-option *ngFor="let option of pageObject.sub2.selectOption" [value]="option">
+              {{ option }}
+            </mat-option>
+          </mat-select>
+          <div *ngIf="pageObject.sub2.answer && (pageObject.sub2.answer>0)">
+            <table class="select-width-50">
+              <tr>
+                <th>Month</th>
+                <th>Year</th>
+              </tr>
+              <tbody>
+                <tr *ngFor="let option of ddlCount;  let i = index">
+                  <td class="first">
+                    <mat-select class="select-width-90" placeholder="Month" [id]="'Month'+i" [(ngModel)]="pageObject.sub1.relapsesMonth[i]">
+                      <mat-option *ngFor="let Month of ddlMonthOption" [value]="Month.value">
+                        {{ Month.text }}
+                      </mat-option>
+                    </mat-select>
+                  </td>
+                  <td class="first">
+                    <mat-select class="select-width-90" placeholder="Year" [id]="'Year'+i" [(ngModel)]="pageObject.sub1.relapsesYear[i]">
+                      <mat-option *ngFor="let years of ddlYearsOption" [value]="years">
+                        {{ years }}
+                      </mat-option>
+                    </mat-select>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div *ngIf="pageObject.type.toLowerCase()=='patientconcerns'">
+        <div *ngFor="let item of pageObject.options; let g=index ">
+          <mat-checkbox class="example-margin" [id]="'cb'+g" [value]="item" [(ngModel)]="item.checked">{{item.text}}</mat-checkbox>
+          <div *ngIf="item.checked && item.textBox">
+            <textarea mdInput placeholder="Enter text here" class="textarea" [(ngModel)]="item.othertext"></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div *ngIf='pageObject.outro' class="footer-padding">
+      <b>{{pageObject.outro}}</b>
+      <br />
+    </div>
+  </div>
+  <div class="btnContainer">
+    <app-navigate [selectedOption]="selectedOption" [pageName]="pageName"></app-navigate>
+  </div>
+</mat-card>

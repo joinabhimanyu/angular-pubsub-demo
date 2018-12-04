@@ -1,0 +1,86 @@
+.mainContainer {
+  font-size: 14pt;
+  margin: 0px auto;
+  min-height: 440px;
+
+  .contents {
+    min-height: 390px;
+    margin-bottom: 10px;
+    min-width: 980px;
+  }
+
+  .btnContainer {
+    margin-top: 10px;
+    text-align: center;
+
+    .btn-right {
+      margin-left: 5px;
+    }
+  }
+
+  .revieContentPadding {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+mat-card-content {
+  font-size: 14pt !important;
+}
+
+.left {
+  padding: 0px 5px 0px 0px
+}
+
+.right {
+  padding: 0px 0px 0px 5px
+}
+
+.progressbar {
+  background-color: #b2b2b2;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  height: 20px;
+  width: 60%;
+  min-width: 550px;
+  margin: 0px auto 15px auto;
+  position: relative;
+
+  .progressTxt {
+    font-size: 9pt;
+    position: absolute;
+    width: 17%;
+    right: 0px;
+    line-height: 20px;
+    white-space: nowrap;
+    text-align: center;
+
+  }
+
+  .barCont {
+    position: absolute;
+    width: 83%;
+    left: 0px;
+    height: 16px;
+    padding: 2px;
+    background-color: #e0e0e0;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: inset 1px 1px 1px 1px #737373;
+    box-shadow: inset 1px 1px 1px 1px #737373;
+
+    .blueBar {
+      background: #87e0fd;
+      background: -moz-linear-gradient(top, #87e0fd 0%, #53cbf1 40%, #05abe0 100%);
+      background: -webkit-linear-gradient(top, #87e0fd 0%, #53cbf1 40%, #05abe0 100%);
+      background: linear-gradient(to bottom, #87e0fd 0%, #53cbf1 40%, #05abe0 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#87e0fd', endColorstr='#05abe0', GradientType=0);
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+      height: 16px;
+    }
+  }
+}

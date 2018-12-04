@@ -1,0 +1,6012 @@
+{
+  "questionaires": [{
+      "id": "7",
+      "os": "",
+      "qx_started_at": "2017-08-16 12:50:00",
+      "status": "COMPLETED",
+      "type": "Full",
+      "id_type": "PatientID",
+      "qx_id": "8010",
+      "qx_name": "MS-SHARE-QX",
+      "browser": "",
+      "qx_completed_at": "2017-08-17 12:52:57",
+      "edss_score": "5",
+      "pom_id": "82043",
+      "responses": [{
+          "qx_code": "Q001.1",
+          "qx_text": "Which of the following best describes your ability to walk?",
+          "answer_options": [
+            "I can walk without any problem",
+            "I have some difficulties with walking, but can walk without aid",
+            "I require a cane, crutch, or other aid to walk",
+            "I require a wheelchair for almost all activities",
+            "I am confined to bed most of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I require a cane, crutch, or other aid to walk"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q001.2",
+          "qx_text": "How far can you walk without needing to use an aid (cane, crutch, walker)?",
+          "answer_options": [
+            "More than 1500 feet, 500 meters or about five football fields",
+            "About 900 to 1500 feet, 300 meters or about 3 football fields",
+            "About 600 to 899 feet, 200 meters or about 2 football fields",
+            "About 300 to 599 feet, 100 meters or about 1 football field"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q001.3",
+          "qx_text": "When I use an aid (cane, crutch, walker), I can walk:",
+          "answer_options": [
+            "About 300 to 400 feet, 120 meters or about 1 football field",
+            "About 150 to 299 feet or 50 meters",
+            "About 50 to 149 feet or 20 meters",
+            "About 15 to 50 feet or 20 meters",
+            "Less than 15 feet or 5 meters"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "About 300 to 400 feet, 120 meters or about 1 football field"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.1",
+          "qx_text": "A cane, crutch, or someone to hold on to.",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Sometimes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.2",
+          "qx_text": "A walker or other bilateral support.",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Less than half the time"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.3",
+          "qx_text": "A wheelchair",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Never or rarely"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q003.1",
+          "qx_text": "Change in feeling (e.g. tingling, numbness) in hands, feet, arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.2",
+          "qx_text": "Weakness in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.3",
+          "qx_text": "Spasms (brief muscle contractions) or stiffness (spasticity) in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.4",
+          "qx_text": "Swaying or losing balance when sitting, standing, or walking?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.5",
+          "qx_text": "Clumsiness or tremors in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.6",
+          "qx_text": "Weakness of muscles in your face?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.7",
+          "qx_text": "Numbness in your face?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.8",
+          "qx_text": "Blurry vision or blind spots?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.9",
+          "qx_text": "Double vision?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.10",
+          "qx_text": "Problems with hearing?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.11",
+          "qx_text": "Problems with voice?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.12",
+          "qx_text": "Problems with swallowing?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.13",
+          "qx_text": "Constipation or loss of bowel control?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.14",
+          "qx_text": "Loss of bladder control or leakage?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.15",
+          "qx_text": "Difficulty starting to urinate?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.16",
+          "qx_text": "Concentration, memory, or thinking problems?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q004.1",
+          "qx_text": "Right hand or arm",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is good"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.2",
+          "qx_text": "Left hand or arm",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is fair"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.3",
+          "qx_text": "Right foot or leg",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is fair"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.4",
+          "qx_text": "Left foot or leg",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is poor"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.1",
+          "qx_text": "Right Arm",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I have to make some effort to raise it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.2",
+          "qx_text": "Left Arm",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can easily raise it and keep it raised"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.3",
+          "qx_text": "Right Leg",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can barely raise it"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.4",
+          "qx_text": "Left Leg",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can move my limb, but I cannot raise it"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.1",
+          "qx_text": "Right Arm",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I do not have stiffness or spasms"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.2",
+          "qx_text": "Left Arm",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Mild, do not make it hard for me to use it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.3",
+          "qx_text": "Right Leg",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Stiffness and spasmsâ€¦"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.4",
+          "qx_text": "Left Leg",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_text_score": [
+            "4"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.1",
+          "qx_text": "Balance when standing?",
+          "answer_options": [
+            "Very good. I never or rarely lose my balance.",
+            "Good. I sometimes lose my balance or sway when my eyes are closed.",
+            "Poor. I often lose my balance or sway, even when my eyes are open.",
+            "Very poor. I always or almost always lose my balance"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Good. I sometimes lose my balance or sway when my eyes are closed."
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.2",
+          "qx_text": "Balance when walking a straight line?",
+          "answer_options": [
+            "I can easily walk a straight line",
+            "I occasionally lose my balance",
+            "I usually have to concentrate to keep my balance",
+            "I lose my balance after a few steps",
+            "I need help to hold my balance"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I usually have to concentrate to keep my balance"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.3",
+          "qx_text": "Balance when sitting?",
+          "answer_options": [
+            "I am very steady when I sit",
+            "I sway once in a while when I sit",
+            "I sway constantly when I sit but I never need support",
+            "I sometimes need support when I sit to keep from swaying",
+            "I usually need support when I sit to keep from swaying"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I sway once in a while when I sit"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q008.1",
+          "qx_text": "Your arm(s)?",
+          "answer_options": [
+            "I do not have tremors or coordination problems",
+            "Rarely make it hard for me to use",
+            "Sometimes make it hard for me to use",
+            "Often make it hard for me to use",
+            "Always make it hard for me to use"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do tremors or coordination problems make it hard for you to use your arms and legs?",
+          "section": "Limb Coordination",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q008.2",
+          "qx_text": "Your leg(s)?",
+          "answer_options": [
+            "I do not have tremors or coordination problems",
+            "Rarely make it hard for me to use",
+            "Sometimes make it hard for me to use",
+            "Often make it hard for me to use",
+            "Always make it hard for me to use"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do tremors or coordination problems make it hard for you to use your arms and legs?",
+          "section": "Limb Coordination",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q009.1",
+          "qx_text": "Right side of your face",
+          "answer_options": [
+            "I do not have muscle weakness in my face",
+            "A little, such as when I furrow my eyebrows or laugh",
+            "A lot, such as trouble with drooling or when closing my eye(s)",
+            "Total weakness or palsy, such as Bell's palsy"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "A little, such as when I furrow my eyebrows or laugh"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how much muscle weakness do you have in your face?",
+          "section": "Muscle weakness in face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q009.2",
+          "qx_text": "Left side of your face",
+          "answer_options": [
+            "I do not have muscle weakness in my face",
+            "A little, such as when I furrow my eyebrows or laugh",
+            "A lot, such as trouble with drooling or when closing my eye(s)",
+            "Total weakness or palsy, such as Bell's palsy"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I do not have muscle weakness in my face"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, how much muscle weakness do you have in your face?",
+          "section": "Muscle weakness in face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q010.1",
+          "qx_text": "Right side of your face",
+          "answer_options": [
+            "Feeling is very good. No numbness or pain.",
+            "Feeling is good. Some numbness.",
+            "Feeling is fair. Hard to tell sharp touch from dull touch.",
+            "Feeling is poor. Mild pain.",
+            "Feeling is very poor or gone. Moderate to severe pain."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, how much feeling do you have in your face?",
+          "section": "Loss of sensation in the face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q010.2",
+          "qx_text": "Left side of your face",
+          "answer_options": [
+            "Feeling is very good. No numbness or pain.",
+            "Feeling is good. Some numbness.",
+            "Feeling is fair. Hard to tell sharp touch from dull touch.",
+            "Feeling is poor. Mild pain.",
+            "Feeling is very poor or gone. Moderate to severe pain."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, how much feeling do you have in your face?",
+          "section": "Loss of sensation in the face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.1",
+          "qx_text": "Problems with vision in your right eye",
+          "answer_options": [
+            "I have no problems with my ability to see.",
+            "My vision is slightly blurry",
+            "My vision is very blurry",
+            "I am blind, or almost blind, in that eye"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My vision is slightly blurry"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.2",
+          "qx_text": "Problems with vision in your left eye",
+          "answer_options": [
+            "I have no problems with my ability to see.",
+            "My vision is slightly blurry",
+            "My vision is very blurry",
+            "I am blind, or almost blind, in that eye"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My vision is very blurry"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.3",
+          "qx_text": "Do you have blind spots in your vision?",
+          "answer_options": [
+            "I do NOT have any blind spots in my vision",
+            "My doctor has told me I have a blind spot but I do not notice it",
+            "Yes, I notice a blind spot in my vision "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2"
+          ],
+          "answer_text": [
+            "My doctor has told me I have a blind spot but I do not notice it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q012",
+          "qx_text": "",
+          "answer_options": [
+            "I do NOT have any double vision",
+            "I have double vision that comes and goes",
+            "I almost always have double vision that goes away when one eye is closed",
+            "I have complete loss of eye movement when I look in one or more directions (one or both eyes)"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "Do you have double vision?",
+          "section": "Double Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q013",
+          "qx_text": "",
+          "answer_options": [
+            "I do not have problems hearing",
+            "I have mild hearing loss on one side",
+            "I have moderate or severe hearing loss on one side",
+            "I have total hearing loss on both sides. I am effectively deaf."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I have moderate or severe hearing loss on one side"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Do you have any problems with your hearing?",
+          "section": "Hearing",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q014",
+          "qx_text": "",
+          "answer_options": [
+            "I do not have problems speaking",
+            "I sometimes slur words but others don't seem to notice",
+            "I often slur words and others notice",
+            "I slur words so much that it interferes with my ability to have conversations",
+            "I slur my words so much that others cannot understand me",
+            "I cannot speak"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer_text": [
+            "I sometimes slur words but others don't seem to notice"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your ability to speak?",
+          "section": "Speech",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q015",
+          "qx_text": "",
+          "answer_options": [
+            "I do NOT have any problems swallowing liquids or foods",
+            "I have problems swallowing liquids or solid foods",
+            "I have frequent problems with swallowing and need a pureed diet",
+            "I cannot swallow food or liquids"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "For an average day, check the one answer that best describes your ability to swallow liquids and solids.",
+          "section": "Swallowing",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q016.1",
+          "qx_text": "Constipation",
+          "answer_options": [
+            "No constipation",
+            "Some constipation",
+            "Constipation so severe that I cannot move my bowels without an enema or manual measure"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2"
+          ],
+          "answer_text": [
+            "Some constipation"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes yourâ€¦",
+          "section": "Bowel Functioning",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q016.2",
+          "qx_text": "Bowel Frequency",
+          "answer_options": [
+            "I do not have bowel frequency",
+            "Mild frequency",
+            "I need to be close to the bathroom at all times and/or wear pads",
+            "I am not able to control my bowels"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I do not have bowel frequency"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes yourâ€¦",
+          "section": "Bowel Functioning",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.1",
+          "qx_text": "How often did you have a sudden and uncomfortable feeling that you had to urinate soon (\"urgency\")?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.2",
+          "qx_text": "How often did you leak urine without meaning to, even a small amount?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.2",
+          "qx_text": "How often did you leak urine without meaning to, even a small amount?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Never or rarely"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q018",
+          "qx_text": "",
+          "answer_options": [
+            "No",
+            "Yes"
+          ],
+          "answer_options_score": [
+            "0",
+            "1"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you wear a pad or use a urinal?",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q019",
+          "qx_text": "How easy it is for you to start urinating?",
+          "answer_options": [
+            "I do NOT have trouble with starting to urinate",
+            "I sometimes have trouble starting to urinate",
+            "I often have trouble starting to urinate, and/or experience frequent urinary tract infections",
+            "My difficulty urinating is so severe that I require intermittent catheterization",
+            "My difficulty urinating is so severe that I require an indwelling catheter",
+            "My retention is so severe that my bladder lets out unexpectedly, even when I don't feel the urge to urinate (\"overflow incontinence\")"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer_text": [
+            "I do NOT have trouble with starting to urinate"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day...",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q020",
+          "qx_text": "",
+          "answer_options": [
+            "I have no problems with concentration or memory",
+            "I have some concentration and memory problems, or problems with coping with stress, but I am able to handle my daily routines including completing this survey",
+            "I have problems with concentration and memory that my friends and family notice; this is beginning to affect my daily routine. It makes completing  this survey difficult",
+            "I have severe impairment in my cognitive (thinking) abilities; for example, I sometimes forget where I am and who I am talking to. I need help completing this survey",
+            "I have no meaningful conversation and am unable to handle my affairs because of my severe cognitive problems; I need someone else to complete this survey"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I have no problems with concentration or memory"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes your cognitive (thinking) ability?",
+          "section": "Cognition",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q021",
+          "qx_text": "",
+          "answer_options": [
+            "I experience no fatigue",
+            "I experience mild fatigue. I do feel the need to rest more often, but I can still complete all my daily tasks",
+            "Due to my fatigue I have to rest unusually often; this affects less than half of my daily activities. I often cannot complete my daily routine without naps or significant rest.",
+            "I experience severe fatigue levels that have overtaken my life; I am unable to complete more than half of my daily tasks."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I experience mild fatigue. I do feel the need to rest more often, but I can still complete all my daily tasks"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, which of the following describes your fatigue?",
+          "section": "Fatigue",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q022",
+          "qx_text": "",
+          "answer_options": [
+            "All of the Time",
+            "Most Of the Time",
+            "A Good Bit of the Time",
+            "Some of the Time",
+            "A Little of the Time",
+            "None of the Time"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_text": [
+            "Some of the Time"
+          ],
+          "answer_text_score": [
+            "4"
+          ],
+          "qx_global_text": "Did you feel rested on waking in the morning?",
+          "section": "Sleep (MSQOL-54)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.1",
+          "qx_text": "Feeling nervous, anxious, or on edge",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Several Days"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.2",
+          "qx_text": "Not being able to stop or control worrying",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Not at all"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.3",
+          "qx_text": "Little interest or pleasure in doing things",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "More than half the days"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.4",
+          "qx_text": "Feeling down, depressed, or hopeless",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Nearly every day"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024a",
+          "qx_text": "",
+          "answer_options": [
+            "Very dissatisfied",
+            "Somewhat dissatisfied",
+            "Neither dissatisfied nor satisfied",
+            "Somewhat satisfied",
+            "Very satisfied"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Neither dissatisfied nor satisfied"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Overall, how satisfied were you with your sexual function during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.1",
+          "qx_text": "Lack of sexual interest",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Not a problem"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.2",
+          "qx_text": "Inadequate lubrication",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Not a problem"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.3",
+          "qx_text": "Difficulty having orgasm",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "A little of a problem"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.4",
+          "qx_text": "Ability to satisfy sexual partner",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "A little of a problem"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q025",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_text": [
+            "3"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "On a typical day, how much pain do you experience?",
+          "section": "Pain",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q026",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_text": [
+            "5"
+          ],
+          "answer_text_score": [
+            "5"
+          ],
+          "qx_global_text": "Overall, how would you rate your own quality-of-life? Circle one number on the scale below:",
+          "section": "Quality of Life",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q027",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_text": [
+            "3"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "How many relapses have you had since your last visit?",
+          "section": "Relapse",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q028",
+          "qx_text": "",
+          "answer_options": [],
+          "answer_options_score": [],
+          "answer_text": [
+            "07^2017",
+            "05^2017",
+            "03^2017"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "When did each relapse occur?",
+          "section": "Relapse",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q029",
+          "qx_text": "",
+          "answer_options": [
+            "Medication concerns",
+            "Medication refills",
+            "New work related needs",
+            "Family planning",
+            "Other topics?"
+          ],
+          "answer_options_score": [],
+          "answer_text": [
+            "1",
+            "0",
+            "1",
+            "1",
+            "1^I have other concerns I would like to discuss"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "Select all that apply.",
+          "section": "Patient Concerns",
+          "edss": "No"
+        }
+      ],
+      "ip": "",
+      "symptoms": [{
+          "title": "Cognition",
+          "score": "Mild",
+          "qx_code": [
+            "Q020"
+          ]
+        },
+        {
+          "title": "Fatigue",
+          "score": "",
+          "qx_code": [
+            "Q021"
+          ]
+        },
+        {
+          "title": "Mood",
+          "score": "Moderate",
+          "qx_code": [
+            "Q023.1",
+            "Q023.2",
+            "Q023.3",
+            "Q023.4"
+          ]
+        },
+        {
+          "title": "Sleep",
+          "score": "Severe",
+          "qx_code": [
+            "Q022"
+          ]
+        },
+        {
+          "title": "Vision",
+          "score": "Mild",
+          "qx_code": [
+            "Q011.1",
+            "Q011.2",
+            "Q011.3"
+          ]
+        },
+        {
+          "title": "Speech",
+          "score": "Mild",
+          "qx_code": [
+            "Q014"
+          ]
+        },
+        {
+          "title": "Swallowing",
+          "score": "",
+          "qx_code": [
+            "Q015"
+          ]
+        },
+        {
+          "title": "Arm Use",
+          "score": "Severe",
+          "qx_code": [
+            "Q005.1",
+            "Q005.2",
+            "Q006.1",
+            "Q006.2",
+            "Q008.1"
+          ]
+        },
+        {
+          "title": "Leg Use",
+          "score": "Moderate",
+          "qx_code": [
+            "Q005.3",
+            "Q005.4",
+            "Q006.3",
+            "Q006.4",
+            "Q008.2"
+          ]
+        },
+        {
+          "title": "Mobility",
+          "score": "Mild",
+          "qx_code": [
+            "Q001.1",
+            "Q001.2",
+            "Q001.3",
+            "Q002.1",
+            "Q002.2",
+            "Q002.3"
+          ]
+        },
+        {
+          "title": "Balance",
+          "score": "Mild",
+          "qx_code": [
+            "Q007.1",
+            "Q007.2",
+            "Q007.3"
+          ]
+        },
+        {
+          "title": "Sensory",
+          "score": "Moderate",
+          "qx_code": [
+            "Q004.1",
+            "Q004.2",
+            "Q004.3",
+            "Q004.4"
+          ]
+        },
+        {
+          "title": "Pain",
+          "score": "Severe",
+          "qx_code": [
+            "Q025"
+          ]
+        },
+        {
+          "title": "Bowel",
+          "score": "Mild",
+          "qx_code": [
+            "Q016.1",
+            "Q016.2"
+          ]
+        },
+        {
+          "title": "Bladder",
+          "score": "Mild",
+          "qx_code": [
+            "Q017.1",
+            "Q017.2",
+            "Q017.3",
+            "Q018"
+          ]
+        },
+        {
+          "title": "Sexual",
+          "score": "Moderate",
+          "qx_code": [
+            "Q024b.1",
+            "Q024b.2",
+            "Q024b.3",
+            "Q024b.4"
+          ]
+        },
+        {
+          "title": "Quality of Life",
+          "score": "0.6",
+          "qx_code": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "os": "",
+      "qx_started_at": "2017-02-13 12:50:00",
+      "status": "COMPLETED",
+      "type": "Full",
+      "id_type": "PatientID",
+      "qx_id": "7625",
+      "qx_name": "MS-SHARE-QX",
+      "browser": "",
+      "qx_completed_at": "2017-02-15 12:52:57",
+      "edss_score": "3.0",
+      "pom_id": "82043",
+      "responses": [{
+          "qx_code": "Q001.1",
+          "qx_text": "Which of the following best describes your ability to walk?",
+          "answer_options": [
+            "I can walk without any problem",
+            "I have some difficulties with walking, but can walk without aid",
+            "I require a cane, crutch, or other aid to walk",
+            "I require a wheelchair for almost all activities",
+            "I am confined to bed most of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I require a cane, crutch, or other aid to walk"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q001.2",
+          "qx_text": "How far can you walk without needing to use an aid (cane, crutch, walker)?",
+          "answer_options": [
+            "More than 1500 feet, 500 meters or about five football fields",
+            "About 900 to 1500 feet, 300 meters or about 3 football fields",
+            "About 600 to 899 feet, 200 meters or about 2 football fields",
+            "About 300 to 599 feet, 100 meters or about 1 football field"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q001.3",
+          "qx_text": "When I use an aid (cane, crutch, walker), I can walk:",
+          "answer_options": [
+            "About 300 to 400 feet, 120 meters or about 1 football field",
+            "About 150 to 299 feet or 50 meters",
+            "About 50 to 149 feet or 20 meters",
+            "About 15 to 50 feet or 20 meters",
+            "Less than 15 feet or 5 meters"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "About 300 to 400 feet, 120 meters or about 1 football field"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.1",
+          "qx_text": "A cane, crutch, or someone to hold on to.",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Sometimes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.2",
+          "qx_text": "A walker or other bilateral support.",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Less than half the time"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.3",
+          "qx_text": "A wheelchair",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Never or rarely"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q003.1",
+          "qx_text": "Change in feeling (e.g. tingling, numbness) in hands, feet, arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.2",
+          "qx_text": "Weakness in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.3",
+          "qx_text": "Spasms (brief muscle contractions) or stiffness (spasticity) in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.4",
+          "qx_text": "Swaying or losing balance when sitting, standing, or walking?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.5",
+          "qx_text": "Clumsiness or tremors in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.6",
+          "qx_text": "Weakness of muscles in your face?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.7",
+          "qx_text": "Numbness in your face?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.8",
+          "qx_text": "Blurry vision or blind spots?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.9",
+          "qx_text": "Double vision?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.10",
+          "qx_text": "Problems with hearing?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.11",
+          "qx_text": "Problems with voice?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.12",
+          "qx_text": "Problems with swallowing?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.13",
+          "qx_text": "Constipation or loss of bowel control?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.14",
+          "qx_text": "Loss of bladder control or leakage?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.15",
+          "qx_text": "Difficulty starting to urinate?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.16",
+          "qx_text": "Concentration, memory, or thinking problems?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q004.1",
+          "qx_text": "Right hand or arm",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is good"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.2",
+          "qx_text": "Left hand or arm",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is fair"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.3",
+          "qx_text": "Right foot or leg",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is fair"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.4",
+          "qx_text": "Left foot or leg",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is poor"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.1",
+          "qx_text": "Right Arm",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I have to make some effort to raise it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.2",
+          "qx_text": "Left Arm",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can easily raise it and keep it raised"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.3",
+          "qx_text": "Right Leg",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can barely raise it"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.4",
+          "qx_text": "Left Leg",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can move my limb, but I cannot raise it"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.1",
+          "qx_text": "Right Arm",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I do not have stiffness or spasms"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.2",
+          "qx_text": "Left Arm",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Mild, do not make it hard for me to use it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.3",
+          "qx_text": "Right Leg",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Stiffness and spasmsâ€¦"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.4",
+          "qx_text": "Left Leg",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_text_score": [
+            "4"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.1",
+          "qx_text": "Balance when standing?",
+          "answer_options": [
+            "Very good. I never or rarely lose my balance.",
+            "Good. I sometimes lose my balance or sway when my eyes are closed.",
+            "Poor. I often lose my balance or sway, even when my eyes are open.",
+            "Very poor. I always or almost always lose my balance"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Good. I sometimes lose my balance or sway when my eyes are closed."
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.2",
+          "qx_text": "Balance when walking a straight line?",
+          "answer_options": [
+            "I can easily walk a straight line",
+            "I occasionally lose my balance",
+            "I usually have to concentrate to keep my balance",
+            "I lose my balance after a few steps",
+            "I need help to hold my balance"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I usually have to concentrate to keep my balance"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.3",
+          "qx_text": "Balance when sitting?",
+          "answer_options": [
+            "I am very steady when I sit",
+            "I sway once in a while when I sit",
+            "I sway constantly when I sit but I never need support",
+            "I sometimes need support when I sit to keep from swaying",
+            "I usually need support when I sit to keep from swaying"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I sway once in a while when I sit"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q008.1",
+          "qx_text": "Your arm(s)?",
+          "answer_options": [
+            "I do not have tremors or coordination problems",
+            "Rarely make it hard for me to use",
+            "Sometimes make it hard for me to use",
+            "Often make it hard for me to use",
+            "Always make it hard for me to use"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do tremors or coordination problems make it hard for you to use your arms and legs?",
+          "section": "Limb Coordination",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q008.2",
+          "qx_text": "Your leg(s)?",
+          "answer_options": [
+            "I do not have tremors or coordination problems",
+            "Rarely make it hard for me to use",
+            "Sometimes make it hard for me to use",
+            "Often make it hard for me to use",
+            "Always make it hard for me to use"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do tremors or coordination problems make it hard for you to use your arms and legs?",
+          "section": "Limb Coordination",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q009.1",
+          "qx_text": "Right side of your face",
+          "answer_options": [
+            "I do not have muscle weakness in my face",
+            "A little, such as when I furrow my eyebrows or laugh",
+            "A lot, such as trouble with drooling or when closing my eye(s)",
+            "Total weakness or palsy, such as Bell's palsy"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "A little, such as when I furrow my eyebrows or laugh"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how much muscle weakness do you have in your face?",
+          "section": "Muscle weakness in face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q009.2",
+          "qx_text": "Left side of your face",
+          "answer_options": [
+            "I do not have muscle weakness in my face",
+            "A little, such as when I furrow my eyebrows or laugh",
+            "A lot, such as trouble with drooling or when closing my eye(s)",
+            "Total weakness or palsy, such as Bell's palsy"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I do not have muscle weakness in my face"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, how much muscle weakness do you have in your face?",
+          "section": "Muscle weakness in face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q010.1",
+          "qx_text": "Right side of your face",
+          "answer_options": [
+            "Feeling is very good. No numbness or pain.",
+            "Feeling is good. Some numbness.",
+            "Feeling is fair. Hard to tell sharp touch from dull touch.",
+            "Feeling is poor. Mild pain.",
+            "Feeling is very poor or gone. Moderate to severe pain."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, how much feeling do you have in your face?",
+          "section": "Loss of sensation in the face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q010.2",
+          "qx_text": "Left side of your face",
+          "answer_options": [
+            "Feeling is very good. No numbness or pain.",
+            "Feeling is good. Some numbness.",
+            "Feeling is fair. Hard to tell sharp touch from dull touch.",
+            "Feeling is poor. Mild pain.",
+            "Feeling is very poor or gone. Moderate to severe pain."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, how much feeling do you have in your face?",
+          "section": "Loss of sensation in the face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.1",
+          "qx_text": "Problems with vision in your right eye",
+          "answer_options": [
+            "I have no problems with my ability to see.",
+            "My vision is slightly blurry",
+            "My vision is very blurry",
+            "I am blind, or almost blind, in that eye"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My vision is slightly blurry"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.2",
+          "qx_text": "Problems with vision in your left eye",
+          "answer_options": [
+            "I have no problems with my ability to see.",
+            "My vision is slightly blurry",
+            "My vision is very blurry",
+            "I am blind, or almost blind, in that eye"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My vision is very blurry"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.3",
+          "qx_text": "Do you have blind spots in your vision?",
+          "answer_options": [
+            "I do NOT have any blind spots in my vision",
+            "My doctor has told me I have a blind spot but I do not notice it",
+            "Yes, I notice a blind spot in my vision "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2"
+          ],
+          "answer_text": [
+            "My doctor has told me I have a blind spot but I do not notice it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q012",
+          "qx_text": "",
+          "answer_options": [
+            "I do NOT have any double vision",
+            "I have double vision that comes and goes",
+            "I almost always have double vision that goes away when one eye is closed",
+            "I have complete loss of eye movement when I look in one or more directions (one or both eyes)"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "Do you have double vision?",
+          "section": "Double Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q013",
+          "qx_text": "",
+          "answer_options": [
+            "I do not have problems hearing",
+            "I have mild hearing loss on one side",
+            "I have moderate or severe hearing loss on one side",
+            "I have total hearing loss on both sides. I am effectively deaf."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I have moderate or severe hearing loss on one side"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Do you have any problems with your hearing?",
+          "section": "Hearing",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q014",
+          "qx_text": "",
+          "answer_options": [
+            "I do not have problems speaking",
+            "I sometimes slur words but others don't seem to notice",
+            "I often slur words and others notice",
+            "I slur words so much that it interferes with my ability to have conversations",
+            "I slur my words so much that others cannot understand me",
+            "I cannot speak"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer_text": [
+            "I sometimes slur words but others don't seem to notice"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your ability to speak?",
+          "section": "Speech",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q015",
+          "qx_text": "",
+          "answer_options": [
+            "I do NOT have any problems swallowing liquids or foods",
+            "I have problems swallowing liquids or solid foods",
+            "I have frequent problems with swallowing and need a pureed diet",
+            "I cannot swallow food or liquids"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "For an average day, check the one answer that best describes your ability to swallow liquids and solids.",
+          "section": "Swallowing",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q016.1",
+          "qx_text": "Constipation",
+          "answer_options": [
+            "No constipation",
+            "Some constipation",
+            "Constipation so severe that I cannot move my bowels without an enema or manual measure"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2"
+          ],
+          "answer_text": [
+            "Some constipation"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes yourâ€¦",
+          "section": "Bowel Functioning",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q016.2",
+          "qx_text": "Bowel Frequency",
+          "answer_options": [
+            "I do not have bowel frequency",
+            "Mild frequency",
+            "I need to be close to the bathroom at all times and/or wear pads",
+            "I am not able to control my bowels"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I do not have bowel frequency"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes yourâ€¦",
+          "section": "Bowel Functioning",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.1",
+          "qx_text": "How often did you have a sudden and uncomfortable feeling that you had to urinate soon (\"urgency\")?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.2",
+          "qx_text": "How often did you leak urine without meaning to, even a small amount?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.2",
+          "qx_text": "How often did you leak urine without meaning to, even a small amount?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Never or rarely"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q018",
+          "qx_text": "",
+          "answer_options": [
+            "No",
+            "Yes"
+          ],
+          "answer_options_score": [
+            "0",
+            "1"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you wear a pad or use a urinal?",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q019",
+          "qx_text": "How easy it is for you to start urinating?",
+          "answer_options": [
+            "I do NOT have trouble with starting to urinate",
+            "I sometimes have trouble starting to urinate",
+            "I often have trouble starting to urinate, and/or experience frequent urinary tract infections",
+            "My difficulty urinating is so severe that I require intermittent catheterization",
+            "My difficulty urinating is so severe that I require an indwelling catheter",
+            "My retention is so severe that my bladder lets out unexpectedly, even when I don't feel the urge to urinate (\"overflow incontinence\")"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer_text": [
+            "I do NOT have trouble with starting to urinate"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day...",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q020",
+          "qx_text": "",
+          "answer_options": [
+            "I have no problems with concentration or memory",
+            "I have some concentration and memory problems, or problems with coping with stress, but I am able to handle my daily routines including completing this survey",
+            "I have problems with concentration and memory that my friends and family notice; this is beginning to affect my daily routine. It makes completing  this survey difficult",
+            "I have severe impairment in my cognitive (thinking) abilities; for example, I sometimes forget where I am and who I am talking to. I need help completing this survey",
+            "I have no meaningful conversation and am unable to handle my affairs because of my severe cognitive problems; I need someone else to complete this survey"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I have no problems with concentration or memory"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes your cognitive (thinking) ability?",
+          "section": "Cognition",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q021",
+          "qx_text": "",
+          "answer_options": [
+            "I experience no fatigue",
+            "I experience mild fatigue. I do feel the need to rest more often, but I can still complete all my daily tasks",
+            "Due to my fatigue I have to rest unusually often; this affects less than half of my daily activities. I often cannot complete my daily routine without naps or significant rest.",
+            "I experience severe fatigue levels that have overtaken my life; I am unable to complete more than half of my daily tasks."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I experience mild fatigue. I do feel the need to rest more often, but I can still complete all my daily tasks"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, which of the following describes your fatigue?",
+          "section": "Fatigue",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q022",
+          "qx_text": "",
+          "answer_options": [
+            "All of the Time",
+            "Most Of the Time",
+            "A Good Bit of the Time",
+            "Some of the Time",
+            "A Little of the Time",
+            "None of the Time"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_text": [
+            "Some of the Time"
+          ],
+          "answer_text_score": [
+            "4"
+          ],
+          "qx_global_text": "Did you feel rested on waking in the morning?",
+          "section": "Sleep (MSQOL-54)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.1",
+          "qx_text": "Feeling nervous, anxious, or on edge",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Several Days"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.2",
+          "qx_text": "Not being able to stop or control worrying",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Not at all"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.3",
+          "qx_text": "Little interest or pleasure in doing things",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "More than half the days"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.4",
+          "qx_text": "Feeling down, depressed, or hopeless",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Nearly every day"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024a",
+          "qx_text": "",
+          "answer_options": [
+            "Very dissatisfied",
+            "Somewhat dissatisfied",
+            "Neither dissatisfied nor satisfied",
+            "Somewhat satisfied",
+            "Very satisfied"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Neither dissatisfied nor satisfied"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Overall, how satisfied were you with your sexual function during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.1",
+          "qx_text": "Lack of sexual interest",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Not a problem"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.2",
+          "qx_text": "Inadequate lubrication",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Not a problem"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.3",
+          "qx_text": "Difficulty having orgasm",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "A little of a problem"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.4",
+          "qx_text": "Ability to satisfy sexual partner",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "A little of a problem"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q025",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_text": [
+            "3"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "On a typical day, how much pain do you experience?",
+          "section": "Pain",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q026",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_text": [
+            "5"
+          ],
+          "answer_text_score": [
+            "5"
+          ],
+          "qx_global_text": "Overall, how would you rate your own quality-of-life? Circle one number on the scale below:",
+          "section": "Quality of Life",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q027",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_text": [
+            "1"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "How many relapses have you had since your last visit?",
+          "section": "Relapse",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q028",
+          "qx_text": "",
+          "answer_options": [],
+          "answer_options_score": [],
+          "answer_text": [
+            "12^2016"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "When did each relapse occur?",
+          "section": "Relapse",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q029",
+          "qx_text": "",
+          "answer_options": [
+            "Medication concerns",
+            "Medication refills",
+            "New work related needs",
+            "Family planning",
+            "Other topics?"
+          ],
+          "answer_options_score": [],
+          "answer_text": [
+            "1",
+            "0",
+            "1",
+            "1",
+            "1^I have other concerns I would like to discuss"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "Select all that apply.",
+          "section": "Patient Concerns",
+          "edss": "No"
+        }
+      ],
+      "ip": "",
+      "symptoms": [{
+          "title": "Cognition",
+          "score": "Moderate",
+          "qx_code": [
+            "Q020"
+          ]
+        },
+        {
+          "title": "Fatigue",
+          "score": "Mild",
+          "qx_code": [
+            "Q021"
+          ]
+        },
+        {
+          "title": "Mood",
+          "score": "Moderate",
+          "qx_code": [
+            "Q023.1",
+            "Q023.2",
+            "Q023.3",
+            "Q023.4"
+          ]
+        },
+        {
+          "title": "Sleep",
+          "score": "Mild",
+          "qx_code": [
+            "Q022"
+          ]
+        },
+        {
+          "title": "Vision",
+          "score": "Mild",
+          "qx_code": [
+            "Q011.1",
+            "Q011.2",
+            "Q011.3"
+          ]
+        },
+        {
+          "title": "Speech",
+          "score": "Moderate",
+          "qx_code": [
+            "Q014"
+          ]
+        },
+        {
+          "title": "Swallowing",
+          "score": "Severe",
+          "qx_code": [
+            "Q015"
+          ]
+        },
+        {
+          "title": "Arm Use",
+          "score": "Moderate",
+          "qx_code": [
+            "Q005.1",
+            "Q005.2",
+            "Q006.1",
+            "Q006.2",
+            "Q008.1"
+          ]
+        },
+        {
+          "title": "Leg Use",
+          "score": "Moderate",
+          "qx_code": [
+            "Q005.3",
+            "Q005.4",
+            "Q006.3",
+            "Q006.4",
+            "Q008.2"
+          ]
+        },
+        {
+          "title": "Mobility",
+          "score": "Mild",
+          "qx_code": [
+            "Q001.1",
+            "Q001.2",
+            "Q001.3",
+            "Q002.1",
+            "Q002.2",
+            "Q002.3"
+          ]
+        },
+        {
+          "title": "Balance",
+          "score": "Moderate",
+          "qx_code": [
+            "Q007.1",
+            "Q007.2",
+            "Q007.3"
+          ]
+        },
+        {
+          "title": "Sensory",
+          "score": "Moderate",
+          "qx_code": [
+            "Q004.1",
+            "Q004.2",
+            "Q004.3",
+            "Q004.4"
+          ]
+        },
+        {
+          "title": "Pain",
+          "score": "Mild",
+          "qx_code": [
+            "Q025"
+          ]
+        },
+        {
+          "title": "Bowel",
+          "score": "Moderate",
+          "qx_code": [
+            "Q016.1",
+            "Q016.2"
+          ]
+        },
+        {
+          "title": "Bladder",
+          "score": "",
+          "qx_code": [
+            "Q017.1",
+            "Q017.2",
+            "Q017.3",
+            "Q018"
+          ]
+        },
+        {
+          "title": "Sexual",
+          "score": "Moderate",
+          "qx_code": [
+            "Q024b.1",
+            "Q024b.2",
+            "Q024b.3",
+            "Q024b.4"
+          ]
+        },
+        {
+          "title": "Quality of Life",
+          "score": "0.5",
+          "qx_code": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "os": "",
+      "qx_started_at": "2016-07-30 12:50:00",
+      "status": "COMPLETED",
+      "type": "Full",
+      "id_type": "PatientID",
+      "qx_id": "5081",
+      "qx_name": "MS-SHARE-QX",
+      "browser": "",
+      "qx_completed_at": "2016-08-01 12:52:57",
+      "edss_score": "3.0",
+      "pom_id": "82043",
+      "responses": [{
+          "qx_code": "Q001.1",
+          "qx_text": "Which of the following best describes your ability to walk?",
+          "answer_options": [
+            "I can walk without any problem",
+            "I have some difficulties with walking, but can walk without aid",
+            "I require a cane, crutch, or other aid to walk",
+            "I require a wheelchair for almost all activities",
+            "I am confined to bed most of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I require a cane, crutch, or other aid to walk"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q001.2",
+          "qx_text": "How far can you walk without needing to use an aid (cane, crutch, walker)?",
+          "answer_options": [
+            "More than 1500 feet, 500 meters or about five football fields",
+            "About 900 to 1500 feet, 300 meters or about 3 football fields",
+            "About 600 to 899 feet, 200 meters or about 2 football fields",
+            "About 300 to 599 feet, 100 meters or about 1 football field"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q001.3",
+          "qx_text": "When I use an aid (cane, crutch, walker), I can walk:",
+          "answer_options": [
+            "About 300 to 400 feet, 120 meters or about 1 football field",
+            "About 150 to 299 feet or 50 meters",
+            "About 50 to 149 feet or 20 meters",
+            "About 15 to 50 feet or 20 meters",
+            "Less than 15 feet or 5 meters"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "About 300 to 400 feet, 120 meters or about 1 football field"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "",
+          "section": "Mobility",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.1",
+          "qx_text": "A cane, crutch, or someone to hold on to.",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Sometimes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.2",
+          "qx_text": "A walker or other bilateral support.",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Less than half the time"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q002.3",
+          "qx_text": "A wheelchair",
+          "answer_options": [
+            "Never or rarely",
+            "Sometimes",
+            "Less than half the time",
+            "More than half the time",
+            "All the time or almost all of the time"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Never or rarely"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "When you move about, how often do you use any of the following?",
+          "section": "Mobility Aid",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q003.1",
+          "qx_text": "Change in feeling (e.g. tingling, numbness) in hands, feet, arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.2",
+          "qx_text": "Weakness in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.3",
+          "qx_text": "Spasms (brief muscle contractions) or stiffness (spasticity) in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.4",
+          "qx_text": "Swaying or losing balance when sitting, standing, or walking?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.5",
+          "qx_text": "Clumsiness or tremors in arms or legs?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.6",
+          "qx_text": "Weakness of muscles in your face?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.7",
+          "qx_text": "Numbness in your face?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.8",
+          "qx_text": "Blurry vision or blind spots?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.9",
+          "qx_text": "Double vision?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.10",
+          "qx_text": "Problems with hearing?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.11",
+          "qx_text": "Problems with voice?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.12",
+          "qx_text": "Problems with swallowing?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.13",
+          "qx_text": "Constipation or loss of bowel control?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "Yes"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.14",
+          "qx_text": "Loss of bladder control or leakage?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.15",
+          "qx_text": "Difficulty starting to urinate?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q003.16",
+          "qx_text": "Concentration, memory, or thinking problems?",
+          "answer_options": [
+            "Yes",
+            "No"
+          ],
+          "answer_options_score": [
+            "1",
+            "0"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you have any of the problems below?",
+          "section": "Screening Questions",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q004.1",
+          "qx_text": "Right hand or arm",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is good"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.2",
+          "qx_text": "Left hand or arm",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is fair"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.3",
+          "qx_text": "Right foot or leg",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is fair"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q004.4",
+          "qx_text": "Left foot or leg",
+          "answer_options": [
+            "Feeling is very good - No problems",
+            "Feeling is good",
+            "Feeling is fair",
+            "Feeling is poor",
+            "Feeling is very poor or completely gone"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Feeling is poor"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "On an average day, check the answer that best describes your sensation (feeling, numbness, ability to sense touch or hot or cold) in your:",
+          "section": "Sensory",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.1",
+          "qx_text": "Right Arm",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I have to make some effort to raise it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.2",
+          "qx_text": "Left Arm",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can easily raise it and keep it raised"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.3",
+          "qx_text": "Right Leg",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can barely raise it"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q005.4",
+          "qx_text": "Left Leg",
+          "answer_options": [
+            "I can easily raise it and keep it raised",
+            "I have to make some effort to raise it",
+            "I can barely raise it",
+            "I can move my limb, but I cannot raise it",
+            "I cannot move it at all "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I can move my limb, but I cannot raise it"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "In general, how much strength do you have to raise each arm and leg in the air?",
+          "section": "Limb Strength",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.1",
+          "qx_text": "Right Arm",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I do not have stiffness or spasms"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.2",
+          "qx_text": "Left Arm",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Mild, do not make it hard for me to use it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.3",
+          "qx_text": "Right Leg",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Stiffness and spasmsâ€¦"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q006.4",
+          "qx_text": "Left Leg",
+          "answer_options": [
+            "I do not have stiffness or spasms",
+            "Stiffness and spasmsâ€¦",
+            "Mild, do not make it hard for me to use it",
+            "Moderate stiffness, but with effort I can use it",
+            "Sometimes I cannot overcome the stiffness to use it",
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_options_score": [
+            "0",
+            "",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My arm or leg is so contracted that I cannot use it at all"
+          ],
+          "answer_text_score": [
+            "4"
+          ],
+          "qx_global_text": "In general, do muscle spasms or stiffness (\"spasticity\") make it hard for you to use (bend or straighten) your arms and legs?",
+          "section": "Spasms and Stiffness",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.1",
+          "qx_text": "Balance when standing?",
+          "answer_options": [
+            "Very good. I never or rarely lose my balance.",
+            "Good. I sometimes lose my balance or sway when my eyes are closed.",
+            "Poor. I often lose my balance or sway, even when my eyes are open.",
+            "Very poor. I always or almost always lose my balance"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Good. I sometimes lose my balance or sway when my eyes are closed."
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.2",
+          "qx_text": "Balance when walking a straight line?",
+          "answer_options": [
+            "I can easily walk a straight line",
+            "I occasionally lose my balance",
+            "I usually have to concentrate to keep my balance",
+            "I lose my balance after a few steps",
+            "I need help to hold my balance"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I usually have to concentrate to keep my balance"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q007.3",
+          "qx_text": "Balance when sitting?",
+          "answer_options": [
+            "I am very steady when I sit",
+            "I sway once in a while when I sit",
+            "I sway constantly when I sit but I never need support",
+            "I sometimes need support when I sit to keep from swaying",
+            "I usually need support when I sit to keep from swaying"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I sway once in a while when I sit"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your:",
+          "section": "Balance",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q008.1",
+          "qx_text": "Your arm(s)?",
+          "answer_options": [
+            "I do not have tremors or coordination problems",
+            "Rarely make it hard for me to use",
+            "Sometimes make it hard for me to use",
+            "Often make it hard for me to use",
+            "Always make it hard for me to use"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do tremors or coordination problems make it hard for you to use your arms and legs?",
+          "section": "Limb Coordination",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q008.2",
+          "qx_text": "Your leg(s)?",
+          "answer_options": [
+            "I do not have tremors or coordination problems",
+            "Rarely make it hard for me to use",
+            "Sometimes make it hard for me to use",
+            "Often make it hard for me to use",
+            "Always make it hard for me to use"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, do tremors or coordination problems make it hard for you to use your arms and legs?",
+          "section": "Limb Coordination",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q009.1",
+          "qx_text": "Right side of your face",
+          "answer_options": [
+            "I do not have muscle weakness in my face",
+            "A little, such as when I furrow my eyebrows or laugh",
+            "A lot, such as trouble with drooling or when closing my eye(s)",
+            "Total weakness or palsy, such as Bell's palsy"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "A little, such as when I furrow my eyebrows or laugh"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how much muscle weakness do you have in your face?",
+          "section": "Muscle weakness in face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q009.2",
+          "qx_text": "Left side of your face",
+          "answer_options": [
+            "I do not have muscle weakness in my face",
+            "A little, such as when I furrow my eyebrows or laugh",
+            "A lot, such as trouble with drooling or when closing my eye(s)",
+            "Total weakness or palsy, such as Bell's palsy"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I do not have muscle weakness in my face"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In general, how much muscle weakness do you have in your face?",
+          "section": "Muscle weakness in face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q010.1",
+          "qx_text": "Right side of your face",
+          "answer_options": [
+            "Feeling is very good. No numbness or pain.",
+            "Feeling is good. Some numbness.",
+            "Feeling is fair. Hard to tell sharp touch from dull touch.",
+            "Feeling is poor. Mild pain.",
+            "Feeling is very poor or gone. Moderate to severe pain."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, how much feeling do you have in your face?",
+          "section": "Loss of sensation in the face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q010.2",
+          "qx_text": "Left side of your face",
+          "answer_options": [
+            "Feeling is very good. No numbness or pain.",
+            "Feeling is good. Some numbness.",
+            "Feeling is fair. Hard to tell sharp touch from dull touch.",
+            "Feeling is poor. Mild pain.",
+            "Feeling is very poor or gone. Moderate to severe pain."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In general, how much feeling do you have in your face?",
+          "section": "Loss of sensation in the face",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.1",
+          "qx_text": "Problems with vision in your right eye",
+          "answer_options": [
+            "I have no problems with my ability to see.",
+            "My vision is slightly blurry",
+            "My vision is very blurry",
+            "I am blind, or almost blind, in that eye"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My vision is slightly blurry"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.2",
+          "qx_text": "Problems with vision in your left eye",
+          "answer_options": [
+            "I have no problems with my ability to see.",
+            "My vision is slightly blurry",
+            "My vision is very blurry",
+            "I am blind, or almost blind, in that eye"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "My vision is very blurry"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q011.3",
+          "qx_text": "Do you have blind spots in your vision?",
+          "answer_options": [
+            "I do NOT have any blind spots in my vision",
+            "My doctor has told me I have a blind spot but I do not notice it",
+            "Yes, I notice a blind spot in my vision "
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2"
+          ],
+          "answer_text": [
+            "My doctor has told me I have a blind spot but I do not notice it"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Check the answer that best describes your ability to see. If you wear glasses or contact lenses, describe your vision when wearing these.",
+          "section": "Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q012",
+          "qx_text": "",
+          "answer_options": [
+            "I do NOT have any double vision",
+            "I have double vision that comes and goes",
+            "I almost always have double vision that goes away when one eye is closed",
+            "I have complete loss of eye movement when I look in one or more directions (one or both eyes)"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "Do you have double vision?",
+          "section": "Double Vision",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q013",
+          "qx_text": "",
+          "answer_options": [
+            "I do not have problems hearing",
+            "I have mild hearing loss on one side",
+            "I have moderate or severe hearing loss on one side",
+            "I have total hearing loss on both sides. I am effectively deaf."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I have moderate or severe hearing loss on one side"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Do you have any problems with your hearing?",
+          "section": "Hearing",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q014",
+          "qx_text": "",
+          "answer_options": [
+            "I do not have problems speaking",
+            "I sometimes slur words but others don't seem to notice",
+            "I often slur words and others notice",
+            "I slur words so much that it interferes with my ability to have conversations",
+            "I slur my words so much that others cannot understand me",
+            "I cannot speak"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer_text": [
+            "I sometimes slur words but others don't seem to notice"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "In general, how is your ability to speak?",
+          "section": "Speech",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q015",
+          "qx_text": "",
+          "answer_options": [
+            "I do NOT have any problems swallowing liquids or foods",
+            "I have problems swallowing liquids or solid foods",
+            "I have frequent problems with swallowing and need a pureed diet",
+            "I cannot swallow food or liquids"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "For an average day, check the one answer that best describes your ability to swallow liquids and solids.",
+          "section": "Swallowing",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q016.1",
+          "qx_text": "Constipation",
+          "answer_options": [
+            "No constipation",
+            "Some constipation",
+            "Constipation so severe that I cannot move my bowels without an enema or manual measure"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2"
+          ],
+          "answer_text": [
+            "Some constipation"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes yourâ€¦",
+          "section": "Bowel Functioning",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q016.2",
+          "qx_text": "Bowel Frequency",
+          "answer_options": [
+            "I do not have bowel frequency",
+            "Mild frequency",
+            "I need to be close to the bathroom at all times and/or wear pads",
+            "I am not able to control my bowels"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I do not have bowel frequency"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes yourâ€¦",
+          "section": "Bowel Functioning",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.1",
+          "qx_text": "How often did you have a sudden and uncomfortable feeling that you had to urinate soon (\"urgency\")?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.2",
+          "qx_text": "How often did you leak urine without meaning to, even a small amount?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [],
+          "answer_text_score": [],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q017.2",
+          "qx_text": "How often did you leak urine without meaning to, even a small amount?",
+          "answer_options": [
+            "Never or rarely",
+            "About once a week",
+            "A few times a week",
+            "Every day",
+            "Several times a day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Never or rarely"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "In the last 4 weeksâ€¦",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q018",
+          "qx_text": "",
+          "answer_options": [
+            "No",
+            "Yes"
+          ],
+          "answer_options_score": [
+            "0",
+            "1"
+          ],
+          "answer_text": [
+            "No"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Do you wear a pad or use a urinal?",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q019",
+          "qx_text": "How easy it is for you to start urinating?",
+          "answer_options": [
+            "I do NOT have trouble with starting to urinate",
+            "I sometimes have trouble starting to urinate",
+            "I often have trouble starting to urinate, and/or experience frequent urinary tract infections",
+            "My difficulty urinating is so severe that I require intermittent catheterization",
+            "My difficulty urinating is so severe that I require an indwelling catheter",
+            "My retention is so severe that my bladder lets out unexpectedly, even when I don't feel the urge to urinate (\"overflow incontinence\")"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer_text": [
+            "I do NOT have trouble with starting to urinate"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day...",
+          "section": "Urinary Incontinence",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q020",
+          "qx_text": "",
+          "answer_options": [
+            "I have no problems with concentration or memory",
+            "I have some concentration and memory problems, or problems with coping with stress, but I am able to handle my daily routines including completing this survey",
+            "I have problems with concentration and memory that my friends and family notice; this is beginning to affect my daily routine. It makes completing  this survey difficult",
+            "I have severe impairment in my cognitive (thinking) abilities; for example, I sometimes forget where I am and who I am talking to. I need help completing this survey",
+            "I have no meaningful conversation and am unable to handle my affairs because of my severe cognitive problems; I need someone else to complete this survey"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "I have no problems with concentration or memory"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "On an average day, which of the following best describes your cognitive (thinking) ability?",
+          "section": "Cognition",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q021",
+          "qx_text": "",
+          "answer_options": [
+            "I experience no fatigue",
+            "I experience mild fatigue. I do feel the need to rest more often, but I can still complete all my daily tasks",
+            "Due to my fatigue I have to rest unusually often; this affects less than half of my daily activities. I often cannot complete my daily routine without naps or significant rest.",
+            "I experience severe fatigue levels that have overtaken my life; I am unable to complete more than half of my daily tasks."
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "I experience mild fatigue. I do feel the need to rest more often, but I can still complete all my daily tasks"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "On an average day, which of the following describes your fatigue?",
+          "section": "Fatigue",
+          "edss": "Yes"
+        },
+        {
+          "qx_code": "Q022",
+          "qx_text": "",
+          "answer_options": [
+            "All of the Time",
+            "Most Of the Time",
+            "A Good Bit of the Time",
+            "Some of the Time",
+            "A Little of the Time",
+            "None of the Time"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_text": [
+            "Some of the Time"
+          ],
+          "answer_text_score": [
+            "4"
+          ],
+          "qx_global_text": "Did you feel rested on waking in the morning?",
+          "section": "Sleep (MSQOL-54)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.1",
+          "qx_text": "Feeling nervous, anxious, or on edge",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Several Days"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.2",
+          "qx_text": "Not being able to stop or control worrying",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Not at all"
+          ],
+          "answer_text_score": [
+            "0"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.3",
+          "qx_text": "Little interest or pleasure in doing things",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "More than half the days"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q023.4",
+          "qx_text": "Feeling down, depressed, or hopeless",
+          "answer_options": [
+            "Not at all",
+            "Several Days",
+            "More than half the days",
+            "Nearly every day"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_text": [
+            "Nearly every day"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "Over the past two weeks, how often have you been bothered by the following?",
+          "section": "Mood (PHQ-4)",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024a",
+          "qx_text": "",
+          "answer_options": [
+            "Very dissatisfied",
+            "Somewhat dissatisfied",
+            "Neither dissatisfied nor satisfied",
+            "Somewhat satisfied",
+            "Very satisfied"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Neither dissatisfied nor satisfied"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "Overall, how satisfied were you with your sexual function during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.1",
+          "qx_text": "Lack of sexual interest",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Not a problem"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.2",
+          "qx_text": "Inadequate lubrication",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "Not a problem"
+          ],
+          "answer_text_score": [
+            "1"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.3",
+          "qx_text": "Difficulty having orgasm",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "A little of a problem"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q024b.4",
+          "qx_text": "Ability to satisfy sexual partner",
+          "answer_options": [
+            "Not a problem",
+            "A little of a problem",
+            "Somewhat of a problem",
+            "Very much a problem"
+          ],
+          "answer_options_score": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer_text": [
+            "A little of a problem"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "How much of a problem was each of the following for you during the past 4 weeks?",
+          "section": "Sexual Function",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q025",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_text": [
+            "3"
+          ],
+          "answer_text_score": [
+            "3"
+          ],
+          "qx_global_text": "On a typical day, how much pain do you experience?",
+          "section": "Pain",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q026",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_text": [
+            "5"
+          ],
+          "answer_text_score": [
+            "5"
+          ],
+          "qx_global_text": "Overall, how would you rate your own quality-of-life? Circle one number on the scale below:",
+          "section": "Quality of Life",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q027",
+          "qx_text": "",
+          "answer_options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_options_score": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer_text": [
+            "2"
+          ],
+          "answer_text_score": [
+            "2"
+          ],
+          "qx_global_text": "How many relapses have you had since your last visit?",
+          "section": "Relapse",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q028",
+          "qx_text": "",
+          "answer_options": [],
+          "answer_options_score": [],
+          "answer_text": [
+            "02^2016",
+            "04^2016"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "When did each relapse occur?",
+          "section": "Relapse",
+          "edss": "No"
+        },
+        {
+          "qx_code": "Q029",
+          "qx_text": "",
+          "answer_options": [
+            "Medication concerns",
+            "Medication refills",
+            "New work related needs",
+            "Family planning",
+            "Other topics?"
+          ],
+          "answer_options_score": [],
+          "answer_text": [
+            "1",
+            "0",
+            "1",
+            "1",
+            "1^I have other concerns I would like to discuss"
+          ],
+          "answer_text_score": [],
+          "qx_global_text": "Select all that apply.",
+          "section": "Patient Concerns",
+          "edss": "No"
+        }
+      ],
+      "ip": "",
+      "symptoms": [{
+          "title": "Cognition",
+          "score": "Mild",
+          "qx_code": [
+            "Q020"
+          ]
+        },
+        {
+          "title": "Fatigue",
+          "score": "Moderate",
+          "qx_code": [
+            "Q021"
+          ]
+        },
+        {
+          "title": "Mood",
+          "score": "Mild",
+          "qx_code": [
+            "Q023.1",
+            "Q023.2",
+            "Q023.3",
+            "Q023.4"
+          ]
+        },
+        {
+          "title": "Sleep",
+          "score": "Mild",
+          "qx_code": [
+            "Q022"
+          ]
+        },
+        {
+          "title": "Vision",
+          "score": "Moderate",
+          "qx_code": [
+            "Q011.1",
+            "Q011.2",
+            "Q011.3"
+          ]
+        },
+        {
+          "title": "Speech",
+          "score": "Moderate",
+          "qx_code": [
+            "Q014"
+          ]
+        },
+        {
+          "title": "Swallowing",
+          "score": "Mild",
+          "qx_code": [
+            "Q015"
+          ]
+        },
+        {
+          "title": "Arm Use",
+          "score": "Moderate",
+          "qx_code": [
+            "Q005.1",
+            "Q005.2",
+            "Q006.1",
+            "Q006.2",
+            "Q008.1"
+          ]
+        },
+        {
+          "title": "Leg Use",
+          "score": "",
+          "qx_code": [
+            "Q005.3",
+            "Q005.4",
+            "Q006.3",
+            "Q006.4",
+            "Q008.2"
+          ]
+        },
+        {
+          "title": "Mobility",
+          "score": "",
+          "qx_code": [
+            "Q001.1",
+            "Q001.2",
+            "Q001.3",
+            "Q002.1",
+            "Q002.2",
+            "Q002.3"
+          ]
+        },
+        {
+          "title": "Balance",
+          "score": "Severe",
+          "qx_code": [
+            "Q007.1",
+            "Q007.2",
+            "Q007.3"
+          ]
+        },
+        {
+          "title": "Sensory",
+          "score": "Mild",
+          "qx_code": [
+            "Q004.1",
+            "Q004.2",
+            "Q004.3",
+            "Q004.4"
+          ]
+        },
+        {
+          "title": "Pain",
+          "score": "Moderate",
+          "qx_code": [
+            "Q025"
+          ]
+        },
+        {
+          "title": "Bowel",
+          "score": "Moderate",
+          "qx_code": [
+            "Q016.1",
+            "Q016.2"
+          ]
+        },
+        {
+          "title": "Bladder",
+          "score": "Mild",
+          "qx_code": [
+            "Q017.1",
+            "Q017.2",
+            "Q017.3",
+            "Q018"
+          ]
+        },
+        {
+          "title": "Sexual",
+          "score": "Mild",
+          "qx_code": [
+            "Q024b.1",
+            "Q024b.2",
+            "Q024b.3",
+            "Q024b.4"
+          ]
+        },
+        {
+          "title": "Quality of Life",
+          "score": "0.7",
+          "qx_code": []
+        }
+      ]
+    }
+  ]
+}

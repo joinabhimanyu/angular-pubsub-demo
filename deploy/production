@@ -1,0 +1,17 @@
+#!/bin/sh
+
+current_time=$(date "+%Y%m%d%H%M%S")
+
+ssh -T deploy@dcplrhr102 <<EOF
+  cd /var/www/neuroshare-qx/releases
+  git clone -b master ssh://ols_git_rdd_jenkins@git.sutterhealth.org:29418/SutterRDD/neuroshare-qx-app.git $current_time
+  cd $current_time
+  npm install
+  ng build --c production
+  pm2 stop neuroshare-qx
+  rm /var/www/neuroshare-qx/current
+  ln -s /var/www/neuroshare-qx/releases/$current_time /var/www/neuroshare-qx/current
+  pm2 start /var/www/neuroshare-qx/shared/config/pm2.json
+  cd /var/www/neuroshare-qx/releases && ls -t1 | tail -n +4 | xargs rm -r
+  exit
+EOF
